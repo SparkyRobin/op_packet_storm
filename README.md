@@ -3,7 +3,7 @@
 ## Installation
 Clone this repository
 ```bash
-git clone linklinklink
+git clone https://github.com/SparkyRobin/op_packet_storm.git
 ```
 Install dependencies
 ```bash
